@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root"; // Default in XAMPP
 $password = "";
-$dbname = "bookings";
+$dbname = "galactic_travel";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
