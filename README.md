@@ -26,5 +26,5 @@ Galactic Voyages is a futuristic space travel booking website that allows users 
 - `style.css` - Styles for the website.
 
 ## Contact
-For inquiries, reach out at: [contact@galacticvoyages.com](mailto:contact@galacticvoyages.com)
+For inquiries, reach out at: [contact@galacticvoyages.com](mailto:dhanvanthri2004@gmail.com)
 
